@@ -13,4 +13,4 @@ Facilitar  el aprendizaje de técnicas de maquillaje utilizando productos de Mac
 
 1.Explora las carpetas 
 2.Sigue las guias de práctica 
-3.comoarte tus avances y sugerencias mediante *issues* o pull requests*.
+3.comparte tus avances y sugerencias mediante *issues* o pull requests*.
